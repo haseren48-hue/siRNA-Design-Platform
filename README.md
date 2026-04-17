@@ -3,6 +3,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haseren48-hue/siRNA-Design-Platform/blob/main/siRNA_Design_Platform.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[![DOI](https://zenodo.org/badge/1213490167.svg)](https://doi.org/10.5281/zenodo.19631517)
+
 An automated, genome-wide specific siRNA design and off-target profiling pipeline optimized for T7 *in vitro* transcription (IVT). 
 
 ## 🌟 Key Features
