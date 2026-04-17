@@ -1,6 +1,3 @@
-# siRNA-Design-Platform
-An automated, genome-wide specific siRNA design tool optimized for in vitro transcription.
-
 # siRNA Design & Off-Target Profiling Platform
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haseren48-hue/siRNA-Design-Platform/blob/main/siRNA_Design_Platform.ipynb)
